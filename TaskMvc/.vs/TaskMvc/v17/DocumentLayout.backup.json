@@ -3,40 +3,88 @@
   "WorkspaceRootPath": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\furnitures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\furnitures.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\views\\slider\\sliders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\sliders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\slider\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\dataaccess\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\dataaccess\\mvcdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\viewmodel\\productvm\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\viewmodel\\productvm\\createproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\viewmodel\\productvm\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\viewmodel\\productvm\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\viewmodel\\categoryvm\\categoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\viewmodel\\categoryvm\\categoryitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\viewmodel\\categoryvm\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\viewmodel\\categoryvm\\createcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|c:\\users\\ii novbe\\source\\repos\\taskmvc\\taskmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96DCDF0-484B-484E-BFD1-36B3BC2EE003}|TaskMvc\\TaskMvc.csproj|solutionrelative:taskmvc\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,117 +94,280 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SliderController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T15:21:45.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "TaskMvc\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "TaskMvc\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-25T15:20:03.903Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ContactUs.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\ContactUs.cshtml",
-              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\ContactUs.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\ContactUs.cshtml",
-              "RelativeToolTip": "TaskMvc\\Views\\Home\\ContactUs.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:57:04.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Blog.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Blog.cshtml",
-              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\Blog.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Blog.cshtml",
-              "RelativeToolTip": "TaskMvc\\Views\\Home\\Blog.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAEEAAAB2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:52:48.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Furnitures.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Furnitures.cshtml",
-              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\Furnitures.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Furnitures.cshtml",
-              "RelativeToolTip": "TaskMvc\\Views\\Home\\Furnitures.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:40:01.897Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskMvc\\appsettings.json",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\appsettings.json",
+              "RelativeToolTip": "TaskMvc\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-26T12:35:21.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "About.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\About.cshtml",
-              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\About.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\About.cshtml",
-              "RelativeToolTip": "TaskMvc\\Views\\Home\\About.cshtml",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEYAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:26:29.721Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Program.cs",
-              "RelativeDocumentMoniker": "TaskMvc\\Program.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Program.cs",
-              "RelativeToolTip": "TaskMvc\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Product.cs",
+              "RelativeToolTip": "TaskMvc\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:19:15.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "TaskMvc\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAJcAAAAAAAAAAAAwwHIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T14:15:38.76Z",
+              "WhenOpened": "2024-11-26T11:26:03.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "TaskMvc\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "TaskMvc\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowEoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:36:43.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Slider.cs",
+              "RelativeToolTip": "TaskMvc\\Models\\Slider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T14:09:04.602Z"
+              "WhenOpened": "2024-11-26T10:19:13.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:24:48.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "TaskMvc\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAgwEIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T12:45:55.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAkwC8AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T13:27:43.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sliders.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Sliders.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Sliders.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Sliders.cshtml",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Sliders.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T12:29:37.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:21:45.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEoAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:53:04.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Views\\Slider\\Create.cshtml*",
+              "ViewState": "AgIAACwAAAAAAAAAAAAiwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:54:08.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryItem.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\CategoryVM\\CategoryItem.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\ViewModel\\CategoryVM\\CategoryItem.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\CategoryVM\\CategoryItem.cs",
+              "RelativeToolTip": "TaskMvc\\ViewModel\\CategoryVM\\CategoryItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:34:56.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCategory.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\CategoryVM\\CreateCategory.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\ViewModel\\CategoryVM\\CreateCategory.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\CategoryVM\\CreateCategory.cs",
+              "RelativeToolTip": "TaskMvc\\ViewModel\\CategoryVM\\CreateCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:34:41.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MvcDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\DataAccess\\MvcDbContext.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\DataAccess\\MvcDbContext.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\DataAccess\\MvcDbContext.cs",
+              "RelativeToolTip": "TaskMvc\\DataAccess\\MvcDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T12:34:35.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T10:58:00.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Program.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Program.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Program.cs",
+              "RelativeToolTip": "TaskMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:38:00.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\Category.cs",
+              "RelativeToolTip": "TaskMvc\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:26:10.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateProduct.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\ProductVM\\CreateProduct.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\ViewModel\\ProductVM\\CreateProduct.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\ProductVM\\CreateProduct.cs",
+              "RelativeToolTip": "TaskMvc\\ViewModel\\ProductVM\\CreateProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:31:16.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\ProductVM\\ProductItem.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\ViewModel\\ProductVM\\ProductItem.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\ViewModel\\ProductVM\\ProductItem.cs",
+              "RelativeToolTip": "TaskMvc\\ViewModel\\ProductVM\\ProductItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:32:44.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "TaskMvc\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:24:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TaskMvc\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\II novbe\\source\\repos\\TaskMvc\\TaskMvc\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "TaskMvc\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:19:36.427Z",
+              "EditorCaption": ""
             }
           ]
         }

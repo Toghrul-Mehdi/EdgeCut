@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using TaskMvc.DataAccess;
+
 namespace TaskMvc
 {
     public class Program
@@ -8,6 +11,11 @@ namespace TaskMvc
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+            builder.Services.AddDbContext<MvcDbContext>(opt =>
+            {
+                opt.UseSqlServer(builder.Configuration.GetConnectionString("MSSql"));
+            });
+
 
             var app = builder.Build();
 
@@ -20,11 +28,13 @@ namespace TaskMvc
 
             app.UseAuthorization();
 
-            app.MapControllerRoute(
-                name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+            app.MapControllerRoute(name: "areas",
+            pattern: "{area:exists}/{controller=Dashboard}/{action=Index}/{id?}");
 
-            app.Run();
+            app.MapControllerRoute(name: "default", pattern: "{controller=Home}/{action=Index}/{id?}");
+            app.UseStaticFiles();
+
+            app.Run();  
         }
     }
 }
